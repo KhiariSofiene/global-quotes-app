@@ -1,6 +1,6 @@
 // Replace the value below with your deployed backend URL *without* trailing slash.
 // Example: const BACKEND_URL = "https://my-quotes-app.onrender.com";
-const BACKEND_URL = "https://REPLACE_WITH_YOUR_BACKEND_URL";
+const BACKEND_URL = "https://global-quotes-app.onrender.com";
 
 const quoteText = document.getElementById("quote-text");
 const quoteAuthor = document.getElementById("quote-author");

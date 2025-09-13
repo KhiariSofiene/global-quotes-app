@@ -1,0 +1,6 @@
+Step 1 upload (short checklist):
+1) Download and unzip global-quotes-app.zip
+2) Create GitHub account if needed
+3) Create new repo named global-quotes-app (public)
+4) Add file -> Upload files -> drag all files & folders -> Commit
+5) Reply 'step1 done' when finished
